@@ -105,37 +105,37 @@ Recommendations
 
 ## 📊 Executive Dashboard
 
-![Executive Dashboard](Dashboard_Screenshots/Executive_Dashboard.png)
+![Executive Dashboard](Dashboard_Screenshots_PDF/Executive_Dashboard.png)
 
 ---
 
 ## 💰 Sales Dashboard
 
-![Sales Dashboard](Dashboard_Screenshots/Sales_Dashboard.png)
+![Sales Dashboard](Dashboard_Screenshots_PDF/Sales_Dashboard.png)
 
 ---
 
 ## 👥 Customer Dashboard
 
-![Customer Dashboard](Dashboard_Screenshots/Customer_Dashboard.png)
+![Customer Dashboard](Dashboard_Screenshots_PDF/Customer_Dashboard.png)
 
 ---
 
 ## 📦 Product Dashboard
 
-![Product Dashboard](Dashboard_Screenshots/Product_Dashboard.png)
+![Product Dashboard](Dashboard_Screenshots_PDF/Product_Dashboard.png)
 
 ---
 
 ## 📢 Marketing Dashboard
 
-![Marketing Dashboard](Dashboard_Screenshots/Marketing_Dashboard.png)
+![Marketing Dashboard](Dashboard_Screenshots_PDF/Marketing_Dashboard.png)
 
 ---
 
 ## 💬 Feedback Dashboard
 
-![Feedback Dashboard](Dashboard_Screenshots/Feedback_Dashboard.png)
+![Feedback Dashboard](Dashboard_Screenshots_PDF/Feedback_Dashboard.png)
 
 ---
 
