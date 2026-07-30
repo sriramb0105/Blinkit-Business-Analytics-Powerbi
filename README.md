@@ -168,6 +168,21 @@ Recommendations
 
 ---
 
+## 💡 Key Business Insights
+
+Some of the major insights generated from this project include:
+
+- Identified top-performing product categories.
+- Analyzed customer purchasing patterns.
+- Measured marketing campaign profitability.
+- Evaluated campaign effectiveness using ROAS.
+- Identified customer satisfaction trends.
+- Monitored delivery performance over time.
+- Compared customer segments based on revenue contribution.
+- Built executive KPIs for management reporting.
+
+---
+
 ## 📈 Key KPIs
 
 - Total Revenue
