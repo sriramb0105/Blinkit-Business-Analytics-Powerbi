@@ -101,6 +101,73 @@ Recommendations
 
 ---
 
+# 📷 Dashboard Preview
+
+## 📊 Executive Dashboard
+
+![Executive Dashboard](Dashboard_Screenshots/Executive_Dashboard.png)
+
+---
+
+## 💰 Sales Dashboard
+
+![Sales Dashboard](Dashboard_Screenshots/Sales_Dashboard.png)
+
+---
+
+## 👥 Customer Dashboard
+
+![Customer Dashboard](Dashboard_Screenshots/Customer_Dashboard.png)
+
+---
+
+## 📦 Product Dashboard
+
+![Product Dashboard](Dashboard_Screenshots/Product_Dashboard.png)
+
+---
+
+## 📢 Marketing Dashboard
+
+![Marketing Dashboard](Dashboard_Screenshots/Marketing_Dashboard.png)
+
+---
+
+## 💬 Feedback Dashboard
+
+![Feedback Dashboard](Dashboard_Screenshots/Feedback_Dashboard.png)
+
+---
+
+# 🏗️ Project Architecture
+
+```text
+          Raw Excel Datasets
+                  │
+                  ▼
+      Python (Pandas & NumPy)
+                  │
+                  ▼
+ Data Cleaning & Feature Engineering
+                  │
+                  ▼
+      Feature-Engineered Excel Files
+                  │
+                  ▼
+      Power BI Data Model (Star Schema)
+                  │
+                  ▼
+             DAX Measures
+                  │
+                  ▼
+      Interactive Business Dashboards
+                  │
+                  ▼
+      Business Insights & Recommendations
+```
+
+---
+
 ## 📈 Key KPIs
 
 - Total Revenue
@@ -113,6 +180,36 @@ Recommendations
 - Average Rating
 - Positive Feedback %
 - Delivery Success %
+
+---
+
+# ✨ Project Features
+
+- End-to-End Business Analytics Workflow
+- Python-Based Data Cleaning
+- Feature Engineering
+- Exploratory Data Analysis
+- Star Schema Data Modeling
+- DAX-Based KPI Calculations
+- Six Interactive Power BI Dashboards
+- Marketing Performance Analysis
+- Customer Feedback Analysis
+- Executive-Level Reporting
+
+---
+
+# 🛠️ Skills Demonstrated
+
+- Data Cleaning
+- Data Transformation
+- Feature Engineering
+- Exploratory Data Analysis (EDA)
+- Business Intelligence
+- Data Visualization
+- Dashboard Design
+- DAX
+- Power BI
+- Business Storytelling
 
 ---
 
@@ -131,5 +228,10 @@ Recommendations
 **Sriram B**
 
 Aspiring Data Analyst | Power BI Developer | Python | Business Intelligence
+
+## 📬 Connect With Me
+
+- 💼 LinkedIn: *(https://www.linkedin.com/in/sriram-b-129b003ba/)*
+- 💻 GitHub: *(https://github.com/sriramb0105)*
 
 ⭐ If you found this project interesting, consider giving the repository a Star!
