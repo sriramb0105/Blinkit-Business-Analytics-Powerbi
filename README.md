@@ -101,7 +101,7 @@ Recommendations
 
 ---
 
-# 📷 Dashboard Preview
+## 📷 Dashboard Preview
 
 ## 📊 Executive Dashboard
 
@@ -139,7 +139,7 @@ Recommendations
 
 ---
 
-# 🏗️ Project Architecture
+## 🏗️ Project Architecture
 
 ```text
           Raw Excel Datasets
@@ -183,7 +183,7 @@ Recommendations
 
 ---
 
-# ✨ Project Features
+## ✨ Project Features
 
 - End-to-End Business Analytics Workflow
 - Python-Based Data Cleaning
@@ -198,7 +198,7 @@ Recommendations
 
 ---
 
-# 🛠️ Skills Demonstrated
+## 🛠️ Skills Demonstrated
 
 - Data Cleaning
 - Data Transformation
